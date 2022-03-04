@@ -1,6 +1,6 @@
 import requests
 
-api_secret =
+api_secret = 'YOUR API KEY HERE'
 
 
 def get_earnings(symbol):
