@@ -3,7 +3,6 @@ from collections import deque
 from datetime import date
 from dateutil.relativedelta import relativedelta
 import pandas as pd
-import pdb
 
 
 class Stock:
